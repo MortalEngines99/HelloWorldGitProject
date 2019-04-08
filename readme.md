@@ -1,0 +1,1 @@
+Initial Project to learn, how git works
